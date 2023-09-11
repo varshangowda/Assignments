@@ -1,0 +1,6 @@
+D:\day3\ass2\ass2\bin\Debug\ass2.exe.config
+D:\day3\ass2\ass2\bin\Debug\ass2.exe
+D:\day3\ass2\ass2\bin\Debug\ass2.pdb
+D:\day3\ass2\ass2\obj\Debug\ass2.csproj.CoreCompileInputs.cache
+D:\day3\ass2\ass2\obj\Debug\ass2.exe
+D:\day3\ass2\ass2\obj\Debug\ass2.pdb

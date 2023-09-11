@@ -1,0 +1,7 @@
+D:\day3\ass1\ass1\bin\Debug\ass1.exe.config
+D:\day3\ass1\ass1\bin\Debug\ass1.exe
+D:\day3\ass1\ass1\bin\Debug\ass1.pdb
+D:\day3\ass1\ass1\obj\Debug\ass1.csproj.AssemblyReference.cache
+D:\day3\ass1\ass1\obj\Debug\ass1.csproj.CoreCompileInputs.cache
+D:\day3\ass1\ass1\obj\Debug\ass1.exe
+D:\day3\ass1\ass1\obj\Debug\ass1.pdb

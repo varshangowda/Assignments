@@ -1,0 +1,6 @@
+D:\ASSIGNMENTS\ass3.c\ass3.c\bin\Debug\ass3.c.exe.config
+D:\ASSIGNMENTS\ass3.c\ass3.c\bin\Debug\ass3.c.exe
+D:\ASSIGNMENTS\ass3.c\ass3.c\bin\Debug\ass3.c.pdb
+D:\ASSIGNMENTS\ass3.c\ass3.c\obj\Debug\ass3.c.csproj.CoreCompileInputs.cache
+D:\ASSIGNMENTS\ass3.c\ass3.c\obj\Debug\ass3.c.exe
+D:\ASSIGNMENTS\ass3.c\ass3.c\obj\Debug\ass3.c.pdb

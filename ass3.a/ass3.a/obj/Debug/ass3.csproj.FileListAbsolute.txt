@@ -1,0 +1,7 @@
+D:\ASSIGNMENTS\ass3\ass3\bin\Debug\ass3.exe.config
+D:\ASSIGNMENTS\ass3\ass3\bin\Debug\ass3.exe
+D:\ASSIGNMENTS\ass3\ass3\bin\Debug\ass3.pdb
+D:\ASSIGNMENTS\ass3\ass3\obj\Debug\ass3.csproj.AssemblyReference.cache
+D:\ASSIGNMENTS\ass3\ass3\obj\Debug\ass3.csproj.CoreCompileInputs.cache
+D:\ASSIGNMENTS\ass3\ass3\obj\Debug\ass3.exe
+D:\ASSIGNMENTS\ass3\ass3\obj\Debug\ass3.pdb
