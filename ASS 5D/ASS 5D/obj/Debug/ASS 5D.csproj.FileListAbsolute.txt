@@ -1,0 +1,6 @@
+C:\Users\varshan\Desktop\Assignments\ASS 5D\ASS 5D\bin\Debug\ASS 5D.exe.config
+C:\Users\varshan\Desktop\Assignments\ASS 5D\ASS 5D\bin\Debug\ASS 5D.exe
+C:\Users\varshan\Desktop\Assignments\ASS 5D\ASS 5D\bin\Debug\ASS 5D.pdb
+C:\Users\varshan\Desktop\Assignments\ASS 5D\ASS 5D\obj\Debug\ASS 5D.csproj.CoreCompileInputs.cache
+C:\Users\varshan\Desktop\Assignments\ASS 5D\ASS 5D\obj\Debug\ASS 5D.exe
+C:\Users\varshan\Desktop\Assignments\ASS 5D\ASS 5D\obj\Debug\ASS 5D.pdb
