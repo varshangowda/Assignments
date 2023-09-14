@@ -1,0 +1,6 @@
+C:\Users\varshan\Desktop\Assignments\ASS 5 C\ASS 5 C\obj\Debug\ASS 5 C.csproj.CoreCompileInputs.cache
+C:\Users\varshan\Desktop\Assignments\ASS 5 C\ASS 5 C\bin\Debug\ASS 5 C.exe.config
+C:\Users\varshan\Desktop\Assignments\ASS 5 C\ASS 5 C\bin\Debug\ASS 5 C.exe
+C:\Users\varshan\Desktop\Assignments\ASS 5 C\ASS 5 C\bin\Debug\ASS 5 C.pdb
+C:\Users\varshan\Desktop\Assignments\ASS 5 C\ASS 5 C\obj\Debug\ASS 5 C.exe
+C:\Users\varshan\Desktop\Assignments\ASS 5 C\ASS 5 C\obj\Debug\ASS 5 C.pdb
