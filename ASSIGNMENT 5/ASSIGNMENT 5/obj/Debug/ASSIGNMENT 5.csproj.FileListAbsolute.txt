@@ -1,0 +1,7 @@
+C:\Users\varshan\Desktop\Assignments\ASSIGNMENT 5\ASSIGNMENT 5\bin\Debug\ASSIGNMENT 5.exe.config
+C:\Users\varshan\Desktop\Assignments\ASSIGNMENT 5\ASSIGNMENT 5\bin\Debug\ASSIGNMENT 5.exe
+C:\Users\varshan\Desktop\Assignments\ASSIGNMENT 5\ASSIGNMENT 5\bin\Debug\ASSIGNMENT 5.pdb
+C:\Users\varshan\Desktop\Assignments\ASSIGNMENT 5\ASSIGNMENT 5\obj\Debug\ASSIGNMENT 5.csproj.AssemblyReference.cache
+C:\Users\varshan\Desktop\Assignments\ASSIGNMENT 5\ASSIGNMENT 5\obj\Debug\ASSIGNMENT 5.csproj.CoreCompileInputs.cache
+C:\Users\varshan\Desktop\Assignments\ASSIGNMENT 5\ASSIGNMENT 5\obj\Debug\ASSIGNMENT 5.exe
+C:\Users\varshan\Desktop\Assignments\ASSIGNMENT 5\ASSIGNMENT 5\obj\Debug\ASSIGNMENT 5.pdb
