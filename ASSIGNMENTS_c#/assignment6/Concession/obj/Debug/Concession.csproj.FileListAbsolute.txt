@@ -1,0 +1,6 @@
+C:\Users\varshan\Desktop\Assignments\ASS 6\Concession\bin\Debug\Concession.dll
+C:\Users\varshan\Desktop\Assignments\ASS 6\Concession\bin\Debug\Concession.pdb
+C:\Users\varshan\Desktop\Assignments\ASS 6\Concession\obj\Debug\Concession.csproj.AssemblyReference.cache
+C:\Users\varshan\Desktop\Assignments\ASS 6\Concession\obj\Debug\Concession.csproj.CoreCompileInputs.cache
+C:\Users\varshan\Desktop\Assignments\ASS 6\Concession\obj\Debug\Concession.dll
+C:\Users\varshan\Desktop\Assignments\ASS 6\Concession\obj\Debug\Concession.pdb

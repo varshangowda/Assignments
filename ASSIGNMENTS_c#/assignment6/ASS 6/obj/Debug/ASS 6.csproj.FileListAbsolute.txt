@@ -1,0 +1,10 @@
+C:\Users\varshan\Desktop\Assignments\ASS 6\ASS 6\bin\Debug\ASS 6.exe.config
+C:\Users\varshan\Desktop\Assignments\ASS 6\ASS 6\bin\Debug\ASS 6.exe
+C:\Users\varshan\Desktop\Assignments\ASS 6\ASS 6\bin\Debug\ASS 6.pdb
+C:\Users\varshan\Desktop\Assignments\ASS 6\ASS 6\bin\Debug\Concession.dll
+C:\Users\varshan\Desktop\Assignments\ASS 6\ASS 6\bin\Debug\Concession.pdb
+C:\Users\varshan\Desktop\Assignments\ASS 6\ASS 6\obj\Debug\ASS 6.csproj.AssemblyReference.cache
+C:\Users\varshan\Desktop\Assignments\ASS 6\ASS 6\obj\Debug\ASS 6.csproj.CoreCompileInputs.cache
+C:\Users\varshan\Desktop\Assignments\ASS 6\ASS 6\obj\Debug\ASS 6.csproj.CopyComplete
+C:\Users\varshan\Desktop\Assignments\ASS 6\ASS 6\obj\Debug\ASS 6.exe
+C:\Users\varshan\Desktop\Assignments\ASS 6\ASS 6\obj\Debug\ASS 6.pdb
