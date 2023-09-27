@@ -1,0 +1,14 @@
+C:\Users\varshan\Desktop\Assignments\ASSIGNMENTS_c#\ASSIGNMENT 7\Remotingclient\Remotingclient\bin\Debug\Remotingclient.exe.config
+C:\Users\varshan\Desktop\Assignments\ASSIGNMENTS_c#\ASSIGNMENT 7\Remotingclient\Remotingclient\bin\Debug\Remotingclient.exe
+C:\Users\varshan\Desktop\Assignments\ASSIGNMENTS_c#\ASSIGNMENT 7\Remotingclient\Remotingclient\bin\Debug\Remotingclient.pdb
+C:\Users\varshan\Desktop\Assignments\ASSIGNMENTS_c#\ASSIGNMENT 7\Remotingclient\Remotingclient\bin\Debug\Remotingserver.exe
+C:\Users\varshan\Desktop\Assignments\ASSIGNMENTS_c#\ASSIGNMENT 7\Remotingclient\Remotingclient\bin\Debug\Remotingserver.pdb
+C:\Users\varshan\Desktop\Assignments\ASSIGNMENTS_c#\ASSIGNMENT 7\Remotingclient\Remotingclient\bin\Debug\Remotingserver.exe.config
+C:\Users\varshan\Desktop\Assignments\ASSIGNMENTS_c#\ASSIGNMENT 7\Remotingclient\Remotingclient\obj\Debug\Remotingclient.csproj.AssemblyReference.cache
+C:\Users\varshan\Desktop\Assignments\ASSIGNMENTS_c#\ASSIGNMENT 7\Remotingclient\Remotingclient\obj\Debug\Remotingclient.Form1.resources
+C:\Users\varshan\Desktop\Assignments\ASSIGNMENTS_c#\ASSIGNMENT 7\Remotingclient\Remotingclient\obj\Debug\Remotingclient.Properties.Resources.resources
+C:\Users\varshan\Desktop\Assignments\ASSIGNMENTS_c#\ASSIGNMENT 7\Remotingclient\Remotingclient\obj\Debug\Remotingclient.csproj.GenerateResource.cache
+C:\Users\varshan\Desktop\Assignments\ASSIGNMENTS_c#\ASSIGNMENT 7\Remotingclient\Remotingclient\obj\Debug\Remotingclient.csproj.CoreCompileInputs.cache
+C:\Users\varshan\Desktop\Assignments\ASSIGNMENTS_c#\ASSIGNMENT 7\Remotingclient\Remotingclient\obj\Debug\Remotingclient.csproj.CopyComplete
+C:\Users\varshan\Desktop\Assignments\ASSIGNMENTS_c#\ASSIGNMENT 7\Remotingclient\Remotingclient\obj\Debug\Remotingclient.exe
+C:\Users\varshan\Desktop\Assignments\ASSIGNMENTS_c#\ASSIGNMENT 7\Remotingclient\Remotingclient\obj\Debug\Remotingclient.pdb
