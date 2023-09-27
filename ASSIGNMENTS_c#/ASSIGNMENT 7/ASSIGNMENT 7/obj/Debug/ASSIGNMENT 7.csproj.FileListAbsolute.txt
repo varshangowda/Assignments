@@ -1,0 +1,7 @@
+C:\Users\varshan\Desktop\Assignments\ASSIGNMENTS_c#\ASSIGNMENT 7\ASSIGNMENT 7\obj\Debug\ASSIGNMENT 7.csproj.AssemblyReference.cache
+C:\Users\varshan\Desktop\Assignments\ASSIGNMENTS_c#\ASSIGNMENT 7\ASSIGNMENT 7\obj\Debug\ASSIGNMENT 7.csproj.CoreCompileInputs.cache
+C:\Users\varshan\Desktop\Assignments\ASSIGNMENTS_c#\ASSIGNMENT 7\ASSIGNMENT 7\bin\Debug\ASSIGNMENT 7.exe.config
+C:\Users\varshan\Desktop\Assignments\ASSIGNMENTS_c#\ASSIGNMENT 7\ASSIGNMENT 7\bin\Debug\ASSIGNMENT 7.exe
+C:\Users\varshan\Desktop\Assignments\ASSIGNMENTS_c#\ASSIGNMENT 7\ASSIGNMENT 7\bin\Debug\ASSIGNMENT 7.pdb
+C:\Users\varshan\Desktop\Assignments\ASSIGNMENTS_c#\ASSIGNMENT 7\ASSIGNMENT 7\obj\Debug\ASSIGNMENT 7.exe
+C:\Users\varshan\Desktop\Assignments\ASSIGNMENTS_c#\ASSIGNMENT 7\ASSIGNMENT 7\obj\Debug\ASSIGNMENT 7.pdb

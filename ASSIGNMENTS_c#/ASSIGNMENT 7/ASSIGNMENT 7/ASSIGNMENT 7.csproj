@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3A38EDBD-78AF-4142-B61B-FBD78FBA1DBD}</ProjectGuid>
+    <ProjectGuid>{B8091C5B-14EE-4EB8-BD15-A7269D29D7F0}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ASS_6</RootNamespace>
-    <AssemblyName>ASS 6</AssemblyName>
+    <RootNamespace>ASSIGNMENT_7</RootNamespace>
+    <AssemblyName>ASSIGNMENT 7</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,8 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Class1.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TcpChannel.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

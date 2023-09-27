@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.33927.289
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASS 6", "ASS 6\ASS 6.csproj", "{3A38EDBD-78AF-4142-B61B-FBD78FBA1DBD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Concession", "Concession\Concession.csproj", "{B7B07F9A-BB9D-4527-A16C-950FB2355E01}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vf", "vf\vf.csproj", "{68DE31A6-3C3B-454A-8199-E8E7222D6C7C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{3A38EDBD-78AF-4142-B61B-FBD78FBA1DBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A38EDBD-78AF-4142-B61B-FBD78FBA1DBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A38EDBD-78AF-4142-B61B-FBD78FBA1DBD}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B7B07F9A-BB9D-4527-A16C-950FB2355E01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B7B07F9A-BB9D-4527-A16C-950FB2355E01}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B7B07F9A-BB9D-4527-A16C-950FB2355E01}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B7B07F9A-BB9D-4527-A16C-950FB2355E01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68DE31A6-3C3B-454A-8199-E8E7222D6C7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68DE31A6-3C3B-454A-8199-E8E7222D6C7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68DE31A6-3C3B-454A-8199-E8E7222D6C7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68DE31A6-3C3B-454A-8199-E8E7222D6C7C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
