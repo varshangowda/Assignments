@@ -1,8 +1,6 @@
 create database assignment
 use assignment
 
-
-
 create  table Client(
 client_id int primary key,
 cname varchar(40)not null,
@@ -42,21 +40,12 @@ insert into Departments values(30,'Testing','Mumbai')
 insert into Departments values(40,'Document','Mumbai')
 SELECT * FROM Departments
 
-
-
-
-
-
-
-
 create table Project1(project_id int primary key,descr varchar(30)not null, start_date date,planned_end_date date,actual_end_date date,constraint p_end_dates check(actual_end_date>planned_end_date),budget bigint check (budget>0),client_id int foreign key(client_id) references Client(client_id))
 insert into Project1 values(401,'inventory','01-APR-11','01-Oct-11','31-Oct-11',150000,1001)
 insert into Project1 values(402,'Accounting','01-Aug-11','01-Jan-12',NULL,500000,1002)
 insert into Project1 values(403,'Payroll','01-OCT-11','31-Dec-11',NULL,750000,1003)
 insert into Project1 values(404,'Contact Mgmt','01-NOV-11','31-Dec-11',NULL,5000,1004)
 select *from Project1
-
-
 
 create table EmpProjectTasks(project_id int ,empno int,start_date date,end_date date,task varchar(25)not null,status varchar(15)not null, PRIMARY KEY (project_id, empno),
     FOREIGN KEY (project_id) REFERENCES Project1(project_id),
