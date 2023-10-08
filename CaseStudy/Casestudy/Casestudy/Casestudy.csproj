@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{132A1466-7D73-460F-94DC-30EBEE2504C4}</ProjectGuid>
+    <ProjectGuid>{9FFFDA70-7F23-4BB3-9F1D-DDEFCE2499E5}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>CASE_Study1</RootNamespace>
-    <AssemblyName>CASE Study1</AssemblyName>
+    <RootNamespace>Casestudy</RootNamespace>
+    <AssemblyName>Casestudy</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -32,9 +32,6 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
-  <PropertyGroup>
-    <StartupObject>CASE_Study1.CASESTUDY3_n_4.App</StartupObject>
-  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -46,8 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CASESTUDY2.cs" />
-    <Compile Include="CASESTUDY3 n 4.cs" />
+    <Compile Include="casestudy1.cs" />
+    <Compile Include="casestudy2.cs" />
+    <Compile Include="casestudy3 n 4.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

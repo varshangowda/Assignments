@@ -1,7 +1,0 @@
-C:\Users\varshan\Desktop\Assignments\Case_Study\CASE Study1\CASE Study1\bin\Debug\CASE Study1.exe.config
-C:\Users\varshan\Desktop\Assignments\Case_Study\CASE Study1\CASE Study1\bin\Debug\CASE Study1.exe
-C:\Users\varshan\Desktop\Assignments\Case_Study\CASE Study1\CASE Study1\bin\Debug\CASE Study1.pdb
-C:\Users\varshan\Desktop\Assignments\Case_Study\CASE Study1\CASE Study1\obj\Debug\CASE Study1.csproj.AssemblyReference.cache
-C:\Users\varshan\Desktop\Assignments\Case_Study\CASE Study1\CASE Study1\obj\Debug\CASE Study1.csproj.CoreCompileInputs.cache
-C:\Users\varshan\Desktop\Assignments\Case_Study\CASE Study1\CASE Study1\obj\Debug\CASE Study1.exe
-C:\Users\varshan\Desktop\Assignments\Case_Study\CASE Study1\CASE Study1\obj\Debug\CASE Study1.pdb
