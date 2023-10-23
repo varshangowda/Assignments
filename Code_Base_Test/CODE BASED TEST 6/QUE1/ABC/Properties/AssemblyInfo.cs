@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ADO Codebase 6 c,d")]
+[assembly: AssemblyTitle("ABC")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ADO Codebase 6 c,d")]
+[assembly: AssemblyProduct("ABC")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("3e6cc521-9856-4479-9e40-8999bb04a2ea")]
+[assembly: Guid("464a272c-7bf0-4751-a0bc-eb21dbe96c3a")]
 
 // Version information for an assembly consists of the following four values:
 //

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3E6CC521-9856-4479-9E40-8999BB04A2EA}</ProjectGuid>
+    <ProjectGuid>{464A272C-7BF0-4751-A0BC-EB21DBE96C3A}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ADO_Codebase_6_c_d</RootNamespace>
-    <AssemblyName>ADO Codebase 6 c,d</AssemblyName>
+    <RootNamespace>ABC</RootNamespace>
+    <AssemblyName>ABC</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

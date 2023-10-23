@@ -1,0 +1,7 @@
+C:\Users\varshan\source\repos\ABC\ABC\bin\Debug\ABC.exe.config
+C:\Users\varshan\source\repos\ABC\ABC\bin\Debug\ABC.exe
+C:\Users\varshan\source\repos\ABC\ABC\bin\Debug\ABC.pdb
+C:\Users\varshan\source\repos\ABC\ABC\obj\Debug\ABC.csproj.AssemblyReference.cache
+C:\Users\varshan\source\repos\ABC\ABC\obj\Debug\ABC.csproj.CoreCompileInputs.cache
+C:\Users\varshan\source\repos\ABC\ABC\obj\Debug\ABC.exe
+C:\Users\varshan\source\repos\ABC\ABC\obj\Debug\ABC.pdb
