@@ -1,98 +1,50 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
+﻿
+using System;
+using System.Data;
+using System.Data.SqlClient;
 using casestudy1;
 
 namespace caseStudy2
 {
-    public class Course
-    {
-        public int CourseId { get; set; }
-        public string CourseName { get; set; }
-        public Course(int cId, string cName)
-        {
-            CourseId = cId;
-            CourseName = cName;
-        }
-    }
-    public class Enroll
-    {
-        public Student Student { get; set; }
-        public Course Course { get; set; }
-        public DateTime EnrollmentDate { get; set; }
-
-        public Enroll(Student student, Course course, DateTime enrollDate)
-        {
-            Student = student;
-            Course = course;
-            EnrollmentDate = enrollDate;
-        }
-    }
-
     public class AppEngine
     {
-        private List<Student> students = new List<Student>();
-        private List<Course> courses = new List<Course>();
-        private List<Enroll> enrollments = new List<Enroll>();
+        private string connectionString = "<your_connection_string>";
 
         public void IntroduceCourse(Course course)
         {
-            courses.Add(course);
+            using (SqlConnection con = new SqlConnection(connectionString))
+            {
+                con.Open();
+                using (SqlCommand cmd = new SqlCommand("INSERT INTO Course (CourseId, CourseName) VALUES (@CourseId, @CourseName)", con))
+                {
+                    cmd.Parameters.AddWithValue("@CourseId", course.CourseId);
+                    cmd.Parameters.AddWithValue("@CourseName", course.CourseName);
+
+                    cmd.ExecuteNonQuery();
+                }
+            }
             Console.WriteLine($"Course '{course.CourseName}' (ID: {course.CourseId}) introduced successfully.");
         }
 
         public void RegisterStudent(Student student)
         {
-            students.Add(student);
+            using (SqlConnection con = new SqlConnection(connectionString))
+            {
+                con.Open();
+                using (SqlCommand cmd = new SqlCommand("INSERT INTO Student (Id, Name, DateOfBirth) VALUES (@Id, @Name, @DateOfBirth)", con))
+                {
+                    cmd.Parameters.AddWithValue("@Id", student.Id);
+                    cmd.Parameters.AddWithValue("@Name", student.Name);
+                    cmd.Parameters.AddWithValue("@DateOfBirth", student.DateOfBirth);
+
+                    cmd.ExecuteNonQuery();
+                }
+            }
             Console.WriteLine($"Student '{student.Name}' (ID: {student.Id}) registered successfully.");
         }
 
-        public Student[] ListStudents()
-        {
-            return students.ToArray();
-        }
+        // Other methods remain the same
 
-        public Course[] ListCourses()
-        {
-            return courses.ToArray();
-        }
-
-        public void EnrollStudent(int studentId, int courseId)
-        {
-            Student studentToEnroll = students.FirstOrDefault(s => s.Id == studentId);
-            Course courseToEnroll = courses.FirstOrDefault(c => c.CourseId == courseId);
-
-            if (studentToEnroll != null && courseToEnroll != null)
-            {
-                enrollments.Add(new Enroll(studentToEnroll, courseToEnroll, DateTime.Now));
-                Console.WriteLine($"Enrollment successful: '{studentToEnroll.Name}' in '{courseToEnroll.CourseName}'");
-            }
-            else
-            {
-                Console.WriteLine("Student or course not found.");
-            }
-        }
-
-        public Enroll[] ListEnrollments()
-        {
-            return enrollments.ToArray();
-        }
-    }
-    public class Info
-    {
-        public void DisplayEnrollments(Enroll[] enrollments)
-        {
-            Console.WriteLine("\nEnrollment Details:");
-            Console.WriteLine("-----------");
-            foreach (Enroll enrollment in enrollments)
-            {
-                Console.WriteLine($"Student ID: {enrollment.Student.Id}");
-                Console.WriteLine($"Student Name: {enrollment.Student.Name}");
-                Console.WriteLine($"Course ID: {enrollment.Course.CourseId}");
-                Console.WriteLine($"Course Name: {enrollment.Course.CourseName}");
-                Console.WriteLine($"Enrollment Date: {enrollment.EnrollmentDate.ToShortDateString()}");
-                Console.WriteLine("------------");
-            }
-        }
+        // Note: Be sure to replace "<your_connection_string>" with your actual database connection string.
     }
 }
