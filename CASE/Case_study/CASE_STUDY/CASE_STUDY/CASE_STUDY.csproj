@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9FFFDA70-7F23-4BB3-9F1D-DDEFCE2499E5}</ProjectGuid>
+    <ProjectGuid>{CB357737-9DAB-43E7-8563-7A6F3F3BECE3}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Casestudy</RootNamespace>
-    <AssemblyName>Casestudy</AssemblyName>
+    <RootNamespace>CASE_STUDY</RootNamespace>
+    <AssemblyName>CASE_STUDY</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -32,11 +32,6 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
-  <PropertyGroup>
-    <StartupObject>ConnectedArchitecture_1.Program</StartupObject>
-  </PropertyGroup>
-  <PropertyGroup />
-  <PropertyGroup />
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -48,12 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="casestudy1.cs" />
-    <Compile Include="casestudy2.cs" />
-    <Compile Include="casestudy3 n 4.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Student registration.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
