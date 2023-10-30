@@ -1,0 +1,113 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Codebased Asp_code Q7)
+</name>
+</assembly>
+<members>
+<member name="T:Codebased_Asp_code_Q7_.My.MyWebExtension">
+ <summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:Codebased_Asp_code_Q7_.My.MyWebExtension.Computer">
+ <summary>
+ Returns information about the host computer.
+ </summary>
+</member>
+<member name="P:Codebased_Asp_code_Q7_.My.MyWebExtension.User">
+ <summary>
+ Returns information for the current Web user.
+ </summary>
+</member>
+<member name="P:Codebased_Asp_code_Q7_.My.MyWebExtension.Request">
+ <summary>
+ Returns Request object.
+ </summary>
+</member>
+<member name="P:Codebased_Asp_code_Q7_.My.MyWebExtension.Response">
+ <summary>
+ Returns Response object.
+ </summary>
+</member>
+<member name="P:Codebased_Asp_code_Q7_.My.MyWebExtension.Log">
+ <summary>
+ Returns the Asp log object.
+ </summary>
+</member>
+<member name="F:Codebased_Asp_code_Q7_.WebForm1._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Codebased_Asp_code_Q7_.WebForm1._Textaddress">
+<summary>
+Textaddress control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Codebased_Asp_code_Q7_.WebForm1._Textcity">
+<summary>
+Textcity control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Codebased_Asp_code_Q7_.WebForm1._Textzipcode">
+<summary>
+Textzipcode control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Codebased_Asp_code_Q7_.WebForm1._Textphoneno">
+<summary>
+Textphoneno control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Codebased_Asp_code_Q7_.WebForm1._Textlabel">
+<summary>
+Textlabel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Codebased_Asp_code_Q7_.WebForm1._buttonCheck">
+<summary>
+buttonCheck control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Codebased_Asp_code_Q7_.WebForm1._lblResult">
+<summary>
+lblResult control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>
