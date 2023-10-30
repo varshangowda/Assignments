@@ -50,9 +50,8 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="HTMLPage1.html" />
+    <Content Include="Javascript code2.html" />
     <Content Include="Javascript1.html" />
-    <Content Include="JavaScript1.js" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

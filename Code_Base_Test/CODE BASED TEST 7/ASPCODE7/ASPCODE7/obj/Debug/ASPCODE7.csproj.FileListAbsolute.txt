@@ -1,0 +1,2 @@
+C:\Users\varshan\Desktop\Assignments\Code_Base_Test\CODE BASED TEST 7\ASPCODE7\ASPCODE7\obj\Debug\ASPCODE7.csproj.AssemblyReference.cache
+C:\Users\varshan\Desktop\Assignments\Code_Base_Test\CODE BASED TEST 7\ASPCODE7\ASPCODE7\obj\Debug\ASPCODE7.csproj.CoreCompileInputs.cache
