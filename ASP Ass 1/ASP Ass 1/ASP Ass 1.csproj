@@ -71,8 +71,14 @@
     <Content Include="Global.asax" />
     <Content Include="IMAGES\c.png" />
     <Content Include="IMAGES\d1.png" />
+    <Content Include="IMAGES\iphone 15 pro.png" />
     <Content Include="IMAGES\k1.png" />
+    <Content Include="IMAGES\nokia.png" />
+    <Content Include="IMAGES\oppo reno6.png" />
+    <Content Include="IMAGES\redmi pro.png" />
+    <Content Include="IMAGES\samsung gold fold.png" />
     <Content Include="IMAGES\t1.png" />
+    <Content Include="IMAGES\vivo v27 pro.png" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

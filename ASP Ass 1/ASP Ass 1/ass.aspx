@@ -14,11 +14,13 @@
 </asp:DropDownList>
 <br />
 <br />
-<asp:Image ID="imgItem" runat="server" />
+<asp:Image ID="imgItem" runat="server" Height="38px" Width="56px" />
 <br />
 <br />
 <asp:Label ID="lblCost" runat="server"></asp:Label>
 <br />
+&nbsp;&nbsp;&nbsp;
+        <br />
 <asp:Button ID="btnShowCost" runat="server" Text="Show Cost" OnClick="btnShowCost_Click" />
 </div>
     </form>

@@ -13,45 +13,52 @@ namespace ASP_Ass_1
         {
             if (!IsPostBack)
             {
-                // Populate the dropdown list with items
-                ddlItems.Items.Add(new ListItem("Cadbury", "c.png"));
-                ddlItems.Items.Add(new ListItem("dairymilk", "d1.png"));
-                ddlItems.Items.Add(new ListItem("kitkat", "k1.png"));
-                ddlItems.Items.Add(new ListItem("temptation", "t1.png"));
-              
+                
+                ddlItems.Items.Add(new ListItem("nokia", "nokia.png"));
+                ddlItems.Items.Add(new ListItem("oppo reno6", "oppo reno6.png"));
+                ddlItems.Items.Add(new ListItem("redmi pro", "redmi pro.png"));
+                ddlItems.Items.Add(new ListItem("iphone 15 pro", "iphone 15 pro.png"));
+                ddlItems.Items.Add(new ListItem("samsung gold fold", "samsung gold fold.png"));
+                ddlItems.Items.Add(new ListItem("vivo v27 pro", "vivo v27 pro.png"));
+
+
             }
         }
         protected void ddlItems_SelectedIndexChanged(object sender, EventArgs e)
         {
-            // Set the image URL based on the selected item
+       
             string selectedImageUrl = ddlItems.SelectedItem.Value;
             imgItem.ImageUrl = $"IMAGES/{selectedImageUrl}";
         }
 
         protected void btnShowCost_Click(object sender, EventArgs e)
         {
-            // Get the cost of the selected item (You can replace this with your actual cost logic)
             string selectedItem = ddlItems.SelectedItem.Text;
             string cost = GetItemCost(selectedItem);
 
             lblCost.Text = $"Cost of {selectedItem}: {cost}";
+           
         }
 
-        // You can implement your own cost retrieval logic here
+
         private string GetItemCost(string item)
         {
-            // Replace this with your cost retrieval logic
+            
             switch (item)
             {
-                case "Cadbury":
-                    return "Rs 60";
-                case "dairymilk":
-                    return "Rs 200";
-                case "kitkat":
-                    return "40";
-                case "temptation":
-                    return "150";
-              
+                case "nokia":
+                    return "Rs 1749";
+                case "oppo reno6":
+                    return "Rs15999";
+                case "redmi pro":
+                    return "24999";
+                case "iphone 15 pro":
+                    return "199900";
+                case "samsung gold fold":
+                    return "59,99";
+                case "vivo v27 pro":
+                    return "36,999";
+
                 default:
                     return "N/A";
             }
