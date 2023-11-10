@@ -1,0 +1,28 @@
+﻿
+@{
+    ViewBag.Title = "CustomerDetailsWithOrderId";
+}
+
+<h2>CustomerDetailsWithOrderId</h2>
+
+@*@model YourProjectName.Models.CustomerOrderViewModel // Replace YourProjectName with the actual namespace of your project
+
+<h2>Customer Details with Order ID</h2>*@
+
+<table>
+    <tr>
+        <th>Customer ID</th>
+        <th>Contact Name</th>
+        <th>Order ID</th>
+        <!-- Add other columns as needed -->
+    </tr>
+    <tr>
+        <td>@Model.CustomerID</td>
+        <td>@Model.ContactName</td>
+        <td>@Model.OrderID</td>
+        <!-- Add other columns as needed -->
+    </tr>
+</table>
+
+
+

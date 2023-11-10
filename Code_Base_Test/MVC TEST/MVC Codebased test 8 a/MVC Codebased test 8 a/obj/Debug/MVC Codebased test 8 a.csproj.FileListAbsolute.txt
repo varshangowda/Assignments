@@ -1,0 +1,2 @@
+C:\Users\varshan\Desktop\Assignments\Code_Base_Test\MVC TEST\MVC Codebased test 8 a\MVC Codebased test 8 a\obj\Debug\MVC Codebased test 8 a.csproj.AssemblyReference.cache
+C:\Users\varshan\Desktop\Assignments\Code_Base_Test\MVC TEST\MVC Codebased test 8 a\MVC Codebased test 8 a\obj\Debug\MVC Codebased test 8 a.csproj.CoreCompileInputs.cache
