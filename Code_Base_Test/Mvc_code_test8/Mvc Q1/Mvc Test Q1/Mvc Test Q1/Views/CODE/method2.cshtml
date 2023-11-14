@@ -1,0 +1,20 @@
+﻿@model IEnumerable<Mvc_Test_Q1.Models.Order>
+@{
+    ViewBag.Title = "method2";
+}
+
+<h2>method2</h2>
+
+<p>@foreach (var v in Model)
+{
+    <ul>
+        <li>
+            @v.Customer
+        </li>
+        <li>
+            @v.CustomerID
+        </li>
+        <li>@v.Employee</li>
+        <li>@v.OrderID</li>
+    </ul>
+}</p>
